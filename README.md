@@ -3,9 +3,9 @@
 
 > **Note**: Syncfusion can be used for Free via its [Community License](https://www.syncfusion.com/products/communitylicense).
 
-# Walkthrough
-
 ![](https://i.stack.imgur.com/hVf2V.gif)
+
+# Walkthrough
 
 ### 1. Install Syncfusion.Xamarin.SfAutoComplete NuGet Package
 
