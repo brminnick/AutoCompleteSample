@@ -13,7 +13,7 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2083" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
-    <PackageReference Include="Syncfusion.Xamarin.SfAutoComplete" Version="19.3.0.43" />
+    <PackageReference Include="Syncfusion.Xamarin.SfAutoComplete" Version="19.3.0.44" />
     <PackageReference Include="Xamarin.CommunityToolkit.Markup" Version="1.3.0-pre2" />
   </ItemGroup>
 </Project>
