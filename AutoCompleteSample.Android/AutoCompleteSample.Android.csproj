@@ -53,7 +53,7 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2291" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2337" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.1" />
     <PackageReference Include="Syncfusion.Xamarin.SfAutoComplete" Version="19.4.0.47" />
   </ItemGroup>
@@ -90,6 +90,7 @@
     <ProjectReference Include="..\AutoCompleteSample\AutoCompleteSample.csproj">
       <Project>{B93855C8-1041-4615-8854-07C6CD7F752A}</Project>
       <Name>AutoCompleteSample</Name>
+      <ReferenceSourceTarget></ReferenceSourceTarget>
     </ProjectReference>
   </ItemGroup>
  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
