@@ -125,7 +125,7 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2622" />
     <PackageReference Include="Xamarin.Essentials" Version="1.8.0" />
-    <PackageReference Include="Syncfusion.Xamarin.SfAutoComplete" Version="23.2.4" />
+    <PackageReference Include="Syncfusion.Xamarin.SfAutoComplete" Version="23.2.5" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
